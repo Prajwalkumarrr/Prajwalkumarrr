@@ -1,6 +1,3 @@
-# 💫 About Me:
-💻 I’m currently working on<br>AI-driven web applications  using React, Node.js, MongoDB, and Python and also java<br><br><br>🤝 I’m looking to collaborate on<br>Full-stack development projects and AI/ML-based applications<br><br>🆘 I’m looking for help with<br>System Design, scalable architectures, and advanced Data Structures & Algorithms<br><br>🌱 I’m currently learning<br>Core Java, Data Structures & Algorithms, DBMS, Operating Systems, and Computer Networks<br><br>💬 Ask me about<br>Web development (MERN stack), REST APIs, database design, and basic AI integrations<br><br>⚡ Fun fact<br>I enjoy optimizing performance and building efficient, scalable applications
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_prajwalkumarr_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwalkumar-uppala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uppalaprajwalkumar@gmail.com) 
